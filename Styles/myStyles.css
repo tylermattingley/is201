@@ -1,0 +1,26 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{ display: block;width: 800px; height: 500px;
+}
+.bullets{font-family: 'Times New Roman', Times, serif;
+    height: 9px;
+    color: black;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.contact{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 13px;
+}
+.newbody{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
